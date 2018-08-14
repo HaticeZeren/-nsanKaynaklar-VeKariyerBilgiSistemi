@@ -1,3 +1,3 @@
 # -nsanKaynaklar-VeKariyerBilgiSistemi
-İnsan kaynakları ve kariyer bilgi sistemi adlı projemizde iş başvurusunda bulunacak kişiler ile işveren arasında bağlantı kurabileceği bir uygulamadır.
+İnsan kaynakları ve kariyer bilgi sistemi adlı uygulamada iş başvurusunda bulunacak kişiler ile işveren arasında bağlantı kurulmasını sağlayacak bir uygulama hedeflenmektedir.
 Uygulamaya ait açıklamalar, kullanılan veriyapıları .docx dosyasında yer almaktadır.
